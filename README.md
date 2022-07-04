@@ -2,7 +2,7 @@
 
 ** Análise de dados de escolas públicas que estão sem professores **
 
-* Conjunto de dados distribuido pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
+* Conjunto de dados distribuído pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
 que detalha os obstáculos enfrentados pelas escolas públicas residente na carência de professores.
 
   O resultado dessa razão professores/alunos extremamente baixa e consideravelmente inferior à média das escolas privadas aparece nas notas em testes
